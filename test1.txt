@@ -1,4 +1,8 @@
 changes - testgit2
 hello world - testgit1
 changes - testgit1
+<<<<<<< HEAD
 changes last - testgit2
+=======
+changes last - testgit1
+>>>>>>> e2a86c8f483ea265192cc4d34b32899bf3befea3
