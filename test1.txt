@@ -1,3 +1,7 @@
 hello world - testgit1
 changes - testgit1
+<<<<<<< HEAD
 changes - testgit2
+=======
+changes again - testgit1
+>>>>>>> 3614e8102ede668b8984c507dd148c0cb4809489
